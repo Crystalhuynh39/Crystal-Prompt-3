@@ -1,8 +1,3 @@
-<h1> Hello World, this is dev branch </h1>
----
-layout: mylayout.njk
-title: prompt-3
----
 <!DOCTYPE html>
     <head>
         <meta charset="utf-8">
