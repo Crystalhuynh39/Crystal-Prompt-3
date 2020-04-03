@@ -4,7 +4,7 @@
   "description": "This is for ACM Design Dev.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js", "build": "npx @11ty/eleventy", "serve": "npx @11ty/eleventy --serve"
   },
   "repository": {
     "type": "git",
